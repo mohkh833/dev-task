@@ -56,6 +56,9 @@ This is a **Movie Management Application** built as part of the Associate Softwa
 ### 🔹 Authentication
 Admin: admin@example.com/ Admin@1234
 
+### 🔹 Backend documentation  
+http://localhost:8088/api/v1/swagger-ui/index.html#/
+
 📌 Future Enhancements
 
     Implement movie recommendations based on user ratings.
